@@ -2,9 +2,9 @@
 	"compilerOptions": {
 		"module": "NodeNext",
 		"moduleResolution": "NodeNext",
-		"target": "ES2023",
+		"target": "ES6",
 		"outDir": "dist",
 		"sourceMap": false
 	},
-	"include": ["src/**/*"]
+	"include": ["src/**/*", "src/*.d/*"]
 }
