@@ -6,5 +6,5 @@
 		"outDir": "dist",
 		"sourceMap": false
 	},
-	"include": ["src/**/*", "src/*.d/*"]
+	"include": ["src/**/*"]
 }
