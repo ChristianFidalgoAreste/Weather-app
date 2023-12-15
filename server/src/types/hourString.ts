@@ -1,0 +1,1 @@
+export type hourString = `${number}:${number} ${'PM' | 'AM'}`;
