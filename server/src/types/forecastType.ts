@@ -19,7 +19,6 @@ export type forecastType = {
 		}
 	},	
 	forecast: {
-		forecastday: Array<forecastDayType> | null
+		forecastday: Array<forecastDayType>
 	}
-
 }
