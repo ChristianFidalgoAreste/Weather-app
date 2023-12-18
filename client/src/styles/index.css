@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Oswald:wght@200&family=Poppins:wght@400;700&display=swap');
+
+:root {
+	--backcol: #3f3f3f;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+html {
+	font-family: 'Oswald', sans-serif;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	background-color: var(--backcol);
+}
